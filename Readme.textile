@@ -1,0 +1,28 @@
+h1. Overview
+
+Make configuration easier in .net. 2 main aims: 
+
+# Replace ConfigurationManager.AppSettings
+# When you do have to use xml, make it easy to tokenize and manipulate configuration  
+
+h1. Part 1
+
+var configuration = new Configuration("Config/*.yml");
+
+configuration.Get<string>("SomeConfig", "Test");
+configuration.Get<int>("Bamble");
+
+[Configurable("Config/SomeConfig.yml", "SomeOtherKey")]
+public class SomeObject
+{
+	public string A { get; set; }
+	public string B { get; set; }
+}
+
+configuration.Get<SomeObject>();
+
+h1. Part 2
+
+var tokenizer = new Tokenizer("environment", "master-tokens1.yml", "master-tokens2.yml");
+
+tokenizer.Execute("from.config", "to.config", "tokens1.yml", "tokens2.yml")
