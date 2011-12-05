@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2011-12-05T19:56:46</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:33:37</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:33:47</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:33:55</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:34:10</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:49:02</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:50:01</TestDate>
+      <Status>Success</Status>
+      <TotalFailures>0</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:51:00</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:51:56</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T20:53:14</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T21:07:39</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T21:07:53</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T21:08:30</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-12-05T21:09:58</TestDate>
+      <Status>Success Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+  </Results>
+  <Tests>
+    <TestRecord Name="Configuration">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2011-12-05T19:56:46</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:33:37</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:33:47</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:33:55</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:34:10</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:49:02</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:50:01</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:51:00</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:51:56</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T20:53:14</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T21:07:39</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T21:07:53</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T21:08:30</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T21:09:58</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T21:10:52</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Connection refused</Message>
+          <StackTrace>  at Mono.Remoting.Channels.Unix.HostConnectionPool.CreateConnection () [0x00000] in &lt;filename unknown&gt;:0 
+  at Mono.Remoting.Channels.Unix.HostConnectionPool.GetConnection () [0x00000] in &lt;filename unknown&gt;:0 
+  at Mono.Remoting.Channels.Unix.UnixConnectionPool.GetConnection (System.String path) [0x00000] in &lt;filename unknown&gt;:0 
+  at Mono.Remoting.Channels.Unix.UnixClientTransportSink.ProcessMessage (IMessage msg, ITransportHeaders requestHeaders, System.IO.Stream requestStream, ITransportHeaders&amp; responseHeaders, System.IO.Stream&amp; responseStream) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage (IMessage msg) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-12-05T21:16:16</TestDate>
+          <Status>Success Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="Tests">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2011-12-05T19:56:46</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:33:37</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:33:47</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:33:55</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:34:10</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:49:02</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:50:01</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:51:00</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:51:56</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T20:53:14</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:01:04</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:04:54</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:06:58</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:07:39</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:07:53</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:08:30</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:09:58</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:10:32</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:16:16</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:20:42</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:21:57</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:28:58</TestDate>
+              <Status>Success Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>2</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-12-05T21:31:18</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>3</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+            </UnitTestResult>
+          </Results>
+          <Tests>
+            <TestRecord Name="When_I_tokenizer_a_file_with_a_master_tokens_file">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T19:56:46</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:33:37</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:33:47</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:33:55</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:34:10</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:49:02</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:50:01</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:51:00</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:51:56</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T20:53:14</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:01:04</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Then_the_file_should_be_tokenized">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T19:56:46</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  [null]</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:54 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:33:37</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 12. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;$Foo$&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:33:47</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 12. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;$Foo$&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:33:55</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 12. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;$Foo$&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:34:10</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 12. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;$Foo$&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:49:02</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 7. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:50:01</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:51:00</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 7. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:51:56</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 7. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T20:53:14</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException :   Expected string length 10 but was 7. Strings differ at index 3.
+  Expected: "&lt;a&gt;Bar&lt;/a&gt;"
+  But was:  "&lt;a&gt;&lt;/a&gt;"
+  --------------^</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldEqual[String] (System.String actual, System.String expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenizer_a_file_with_a_master_tokens_file.Then_the_file_should_be_tokenized () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:57 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:01:04</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+            <TestRecord Name="When_I_tokenize_a_file_with_a_master_tokens_file">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:04:54</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:06:58</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:07:39</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:07:53</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:08:30</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:09:58</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:10:32</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:16:16</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:36 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:16:44</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:36 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:18:24</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:36 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:18:47</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:36 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:20:42</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0003d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:31 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:20:55</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0003d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:31 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_master_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:21:54</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:21:57</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:28:58</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:31:18</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Then_the_file_should_be_tokenized">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:04:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:06:58</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:07:39</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:07:53</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:08:30</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:09:58</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:10:32</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:16:16</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:16:44</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:18:24</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:18:47</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:20:42</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:20:55</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_master_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:21:54</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:21:57</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:28:58</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:31:18</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+            <TestRecord Name="When_I_tokenize_a_file_with_a_tokens_file">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:04:54</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValue&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:39 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:38 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:77 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:06:58</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:07:39</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:07:53</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:08:30</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:09:58</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:10:32</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>System.Collections.Generic.KeyNotFoundException : The given key was not present in the dictionary.</Message>
+                  <StackTrace>  at System.Collections.Generic.Dictionary`2[System.String,System.Collections.Generic.IEnumerable`1[Configuration.Token]].get_Item (System.String key) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.TokensFile.TryGetValueFromTokenFile (System.String environment, System.String key) [0x0000d] in /Users/james/dev/Configuration/Source/Configuration/TokensFile.cs:23 
+  at Configuration.Tokenizer+&lt;TryGetValueFromTokensFiles&gt;c__AnonStorey0.&lt;&gt;m__0 (Configuration.TokensFile file) [0x00000] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:51 
+  at System.Linq.Enumerable+&lt;CreateSelectIterator&gt;c__Iterator27`2[Configuration.TokensFile,Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;CreateWhereIterator&gt;c__Iterator35`1[Configuration.Token].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.Single[Token] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.SingleOrDefault[Token] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tokenizer.TryGetValueFromTokensFiles (System.String key, IEnumerable`1 tokenFiles) [0x00014] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:50 
+  at Configuration.Tokenizer.TryGetValue (System.String key, IEnumerable`1 tokens) [0x0000f] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:42 
+  at Configuration.Tokenizer.Tokenize (System.String input, Configuration.TokensFile[] tokens) [0x00035] in /Users/james/dev/Configuration/Source/Configuration/Tokenizer.cs:28 
+  at Configuration.Tests.TokenizerContext.When_I_tokenize_the_file_with_environment (System.String environment) [0x0001b] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:39 
+  at Configuration.Tests.When_I_tokenize_a_file_with_a_tokens_file..ctor () [0x00031] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:74 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:16:16</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:20:42</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:21:57</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:28:58</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:31:18</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Then_the_file_should_be_tokenized">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:04:54</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:06:58</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:07:39</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:07:53</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:08:30</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:09:58</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:10:32</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>TestFixtureSetUp failed in When_I_tokenize_a_file_with_a_tokens_file</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:16:16</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:20:42</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:21:57</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:28:58</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:31:18</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+            <TestRecord Name="When_I_tokenize_a_file_which_contains_a_token_which_isnt_in_a_tokens_file">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:28:58</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-12-05T21:31:18</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Then_it_should_throw_an_exception">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:28:58</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Machine.Specifications.SpecificationException : Should be of type Configuration.TokenizationException but is [null]</Message>
+                      <StackTrace>  at Machine.Specifications.ShouldExtensionMethods.ShouldBeOfType (System.Object actual, System.Type expected) [0x00000] in &lt;filename unknown&gt;:0 
+  at Machine.Specifications.ShouldExtensionMethods.ShouldBeOfType[TokenizationException] (System.Object actual) [0x00000] in &lt;filename unknown&gt;:0 
+  at Configuration.Tests.When_I_tokenize_a_file_which_contains_a_token_which_isnt_in_a_tokens_file.Then_it_should_throw_an_exception () [0x00000] in /Users/james/dev/Configuration/Source/Configuration.Tests/TokenizerTests.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-12-05T21:31:18</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.00ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>
