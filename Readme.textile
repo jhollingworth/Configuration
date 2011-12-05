@@ -7,6 +7,7 @@ Make configuration easier in .net. 2 main aims:
 
 h1. Part 1
 
+<pre>
 var configuration = new Configuration("Config/*.yml");
 
 configuration.Get<string>("SomeConfig", "Test");
@@ -20,9 +21,12 @@ public class SomeObject
 }
 
 configuration.Get<SomeObject>();
+</pre>
 
 h1. Part 2
 
+<pre>
 var tokenizer = new Tokenizer("environment", "master-tokens1.yml", "master-tokens2.yml");
 
 tokenizer.Execute("from.config", "to.config", "tokens1.yml", "tokens2.yml")
+</pre>
