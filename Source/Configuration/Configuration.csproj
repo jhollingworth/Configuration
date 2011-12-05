@@ -30,6 +30,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="Yaml">
+      <HintPath>..\..\Referenced Assemblies\Yaml\Yaml.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
@@ -38,9 +41,12 @@
     <Compile Include="Tokenizer.cs" />
     <Compile Include="TokenizationException.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
+    <Compile Include="TokensFileReaders\TokensFileReader.cs" />
+    <Compile Include="TokensFileReaders\YamlTokensFileReader.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Extensions\" />
+    <Folder Include="TokensFileReaders\" />
   </ItemGroup>
 </Project>

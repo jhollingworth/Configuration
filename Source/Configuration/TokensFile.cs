@@ -7,16 +7,16 @@ namespace Configuration
 	public class TokensFile
 	{
 		private const string MasterTokens = "Master";
-		private readonly Dictionary<string, IEnumerable<Token>> _tokens;
+		public Dictionary<string, IEnumerable<Token>> Tokens { get; private set; }
 		
 		public TokensFile(Dictionary<string, IEnumerable<Token>> tokens)
 		{
-			_tokens = tokens;
+			Tokens = tokens;
 		}
 		
 		public Token TryGetToken(string environment, string key)
 		{
-			if(false == _tokens.ContainsKey(environment))
+			if(false == Tokens.ContainsKey(environment))
 			{
 				if(environment == MasterTokens)
 				{
@@ -28,7 +28,7 @@ namespace Configuration
 				}
 			}
 			   
-			return _tokens[environment].SingleOrDefault(c => c.Key.Equals(key));
+			return Tokens[environment].SingleOrDefault(c => c.Key.Equals(key));
 		}
 	}
 }
