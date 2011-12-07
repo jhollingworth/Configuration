@@ -11,14 +11,19 @@ Example of configuration file:
 
 <pre>
 <Configuration name="Foo">
-	<Property name="Something" value="Foo">
-	<Property name="Some Other Value" value="10.0">
+	<Property name="Something" value="Foo"/>
+	<Property name="Bim" value="Wangle" />
+	<Property name="Some Other Value" value="10.0"/>
 	<Property name="Other">
 		Some longer piece of text where the value is in the body
 	</Property>
 	<Environment name="Dev">
 		<Property name="Something" value="Bar">
 	</Environment>
+</Configuration>
+
+<Configuration name="Bar">
+	<Property name="Bim" value="Bamble" />
 </Configuration>
 </pre>
 
@@ -30,6 +35,8 @@ var configuration = new Configuration("Config/*.xml");
 configuration.Get<string>("Something"); //returns "Foo"
 configuration.Get<int>("Some Other Value""); //returns 10
 configuration.Get<SomeObject>();
+configuration.Get<string>("Bim") //throws ConfigurationException because multiple properties with same key
+configuration.Get<string>("Bar", "Bim") //Add name of configuration section to avoid ConfigurationException
 
 //Environment specific variables ovveride others
 configuration = new Configuration("Dev", "Config/*.xml");
