@@ -7,20 +7,35 @@ Make configuration easier in .net. 2 main aims:
 
 h1. Part 1
 
+Example of configuration file:
+
 <pre>
-var configuration = new Configuration("Config/*.yml");
+<Configuration name="Foo">
+	<Property name="Something" value="Foo">
+	<Property name="Some Other Value" value="10.0">
+	<Property name="Other">
+		Some longer piece of text where the value is in the body
+	</Property>
+	<Environment name="Dev">
+		<Property name="Something" value="Bar">
+	</Environment>
+</Configuration>
+</pre>
 
-configuration.Get<string>("SomeConfig", "Test");
-configuration.Get<int>("Bamble");
+<pre>
 
-[Configurable("Config/SomeConfig.yml", "SomeOtherKey")]
-public class SomeObject
-{
-	public string A { get; set; }
-	public string B { get; set; }
-}
+//When no environment set it uses defaults
+var configuration = new Configuration("Config/*.xml");
 
+configuration.Get<string>("Something"); //returns "Foo"
+configuration.Get<int>("Some Other Value""); //returns 10
 configuration.Get<SomeObject>();
+
+//Environment specific variables ovveride others
+configuration = new Configuration("Dev", "Config/*.xml");
+configuration.Get<string>("Something"); //returns "Bar"
+configuration.Get<int>("Some Other Value""); //still returns 10
+
 </pre>
 
 h1. Part 2
